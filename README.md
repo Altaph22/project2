@@ -1,4 +1,4 @@
 # New Project
 
 this project was created from local system.
-Created by ltaph Alam.
+Created by Ataph Alam.
